@@ -1,4 +1,4 @@
-![Character Sheet](https://github.com/jahdaic/jahdaic/raw/master/mini-character-sheet.jpg)
+![Character Sheet](https://github.com/jahdaic/jahdaic/raw/d30349f56f4cc22494c51c84bf3d04f711e6325a/mini-character-sheet.jpg)
 
 <!--
 **jahdaic/jahdaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
